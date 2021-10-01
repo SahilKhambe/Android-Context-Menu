@@ -1,0 +1,2 @@
+rootProject.name = "Android Context Menu"
+include ':app'
